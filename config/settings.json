@@ -1,0 +1,25 @@
+{
+  "obs": {
+    "host": "localhost",
+    "port": 4444,
+    "password": ""
+  },
+  "crosshair": {
+    "style": "dot",
+    "color": "#00FF00",
+    "size": 20,
+    "thickness": 2,
+    "opacity": 0.8
+  },
+  "tracking": {
+    "enabled": true,
+    "sensitivity": 1.0,
+    "smoothing": 0.7,
+    "max_distance": 100
+  },
+  "performance": {
+    "fps_limit": 60,
+    "preview_enabled": true,
+    "debug_mode": false
+  }
+}

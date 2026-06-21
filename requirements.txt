@@ -1,0 +1,24 @@
+# OBS Integration
+obs-websocket-py>=0.5.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Image Processing
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# UI Framework
+PyQt5>=5.15.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Logging and Debugging
+coloredlogs>=15.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
